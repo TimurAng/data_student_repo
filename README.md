@@ -11,3 +11,4 @@
 |[Прогнозирование рисков](https://github.com/TimurAng/data_student_repo/tree/main/predicting_risks)|Разработка модели машинного обучения, которая поможет заказчику управлять рисками и принимать объективное решение о покупке.|Pandas|
 |[Прогнозирование удовлетворённости сотрудников](https://github.com/TimurAng/data_student_repo/tree/main/forecasting%20employee%20layoffs)|Разработка модели машинного обучения, которая поможет заказчику прогнозировать отток сотрудников.|Pandas|
 |[Прогнозирование температуры звезды](https://github.com/TimurAng/data_student_repo/tree/main/The_temperature_of_the_star)|Определение температуры поверхности обнаруженных звезд на основе нейросетей.|Pandas|
+|[Прогнозирование риска ДТП](https://github.com/TimurAng/data_student_repo/tree/main/accident prediction)|Оценка риска ДТП по выбранному маршруту движения.|Pandas, SQL|
