@@ -13,3 +13,4 @@
 |[Прогнозирование температуры звезды](https://github.com/TimurAng/data_student_repo/tree/main/The_temperature_of_the_star)|Определение температуры поверхности обнаруженных звезд на основе нейросетей.|Pandas|
 |[Прогнозирование риска ДТП](https://github.com/TimurAng/data_student_repo/tree/main/accident%20prediction)|Оценка риска ДТП по выбранному маршруту движения.|Pandas, NumPy, SQL, Matplotlib, Seaborn, Scikit-learn, CatBoost, Pipeline, Shap|
 |[Классификация комментариев](https://github.com/TimurAng/data_student_repo/tree/main/classification%20of%20comments)|Обучение модели классифицикации комментариев на позитивные и негативные.|Pandas, NumPy, Nltk, Scikit-learn, CatBoost, Gensim|
+|[Определение возраста покупателей](https://github.com/TimurAng/data_student_repo/tree/main/determining_the_age_buyers)|Построение модели, которая по фотографии определит приблизительный возраст человека. |Pandas, NumPy, TensorFlow, Keras, Matplotlib|
