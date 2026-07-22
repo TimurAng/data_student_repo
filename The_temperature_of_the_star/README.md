@@ -1,4 +1,4 @@
-`Статус проекта: завершен` <br> `Project status: completed`
+`Статус проекта: завершил` <br> `Project status: i have completed the project`
 
 # Прогнозирование температуры звезды
 
